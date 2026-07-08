@@ -1,0 +1,19 @@
+=========================================================
+                  ELECTRICITY BILL RECEIPT
+=========================================================
+Consumer Number   : 101
+Customer Name     : Avni Sen
+Address           : kolkata
+Phone Number      : 987644
+Billing Month     : june
+---------------------------------------------------------
+Previous Reading  : 1250.0 units
+Current Reading   : 1500.0 units
+Units Consumed    : 250.0 units
+---------------------------------------------------------
+Energy Charges    : Rs. 1100.00
+Fixed/Meter Rent  : Rs. 50.00
+Tax (5%)         : Rs. 57.50
+---------------------------------------------------------
+TOTAL AMOUNT DUE  : Rs. 1207.50
+=========================================================

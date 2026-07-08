@@ -1,0 +1,19 @@
+=========================================================
+                  ELECTRICITY BILL RECEIPT
+=========================================================
+Consumer Number   : 102
+Customer Name     : Bumba Roy
+Address           : Mumbai
+Phone Number      : 896754
+Billing Month     : july
+---------------------------------------------------------
+Previous Reading  : 1568.0 units
+Current Reading   : 1700.0 units
+Units Consumed    : 132.0 units
+---------------------------------------------------------
+Energy Charges    : Rs. 494.00
+Fixed/Meter Rent  : Rs. 50.00
+Tax (5%)         : Rs. 27.20
+---------------------------------------------------------
+TOTAL AMOUNT DUE  : Rs. 571.20
+=========================================================
