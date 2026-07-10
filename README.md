@@ -14,7 +14,7 @@ ELECTRICITY BILL GENERATOR SYSTEM
 | **Programming Language** | C                                       |
 | **Intern Name**          | **Abantika Sen**                    |
 | **Intern ID**            | **CITS4804**                    |
-| **No. of Weeks**         | ** 4 Weeks ** |
+| **No. of Weeks**         |  4 Weeks  |
 | **Organization**         | CODTECH IT SOLUTIONS PRIVATE LIMITED              |
 | **Submission Date**      |10 /07/26            |
 
@@ -37,12 +37,19 @@ The project is designed to demonstrate the practical application of C programmin
 4. Objectives
 
 4.1. Automate electricity bill generation.
+
 4.2. Calculate electricity charges using slab-wise rates.
+
 4.3. Store customer billing information permanently.
+
 4.4. Search customer records using Consumer Number.
+
 4.5. Update existing customer records.
+
 4.6. Delete customer billing records.
+
 4.7. Generate printable receipts.
+
 4.8. Demonstrate file handling and modular programming concepts in C.
 
 ---
@@ -50,16 +57,27 @@ The project is designed to demonstrate the practical application of C programmin
  5. Features
 
 i) Generate New Bill
+
 ii) View All Bills
+
 iii) Search Bill by Consumer Number
+
 iv) Update Existing Bill
+
 v) Delete Bill
+
 vi) Slab-wise Electricity Charge Calculation
+
 vii) Automatic Tax Calculation
+
 viii) Fixed Meter Rent Calculation
+
 ix) Binary File Storage
+
 x) Receipt Generation
+
 xi) Input Validation
+
 xii) User-friendly Menu Interface
 
 ---
