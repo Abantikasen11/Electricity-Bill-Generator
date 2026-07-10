@@ -20,7 +20,7 @@ ELECTRICITY BILL GENERATOR SYSTEM
 
 ---
 
-#2. Project Scope
+# 2. Project Scope
 
 The **Electricity Bill Generator System** is a console-based application developed using the C programming language to automate the process of electricity bill management. The system calculates electricity charges based on slab-wise tariff rates, stores customer billing information permanently using binary file handling, generates detailed receipts, and provides options to view, search, update, and delete customer records. The project demonstrates the practical implementation of file handling, structures, functions, modular programming, and input validation in C.
 
@@ -82,7 +82,7 @@ xii) User-friendly Menu Interface
 
 ---
 
- #6. Technologies Used
+ # 6. Technologies Used
 
 * i) Programming Language: **C**
 *ii) Compiler: **GCC / MinGW GCC**
@@ -92,11 +92,12 @@ xii) User-friendly Menu Interface
    * CodeBlocks
    * Dev-C++
 iv) File Handling: Binary Files
+
 v) Operating System: Windows
 
 ---
 
-#7. Project Structure
+# 7. Project Structure
 
 ``
 Electricity_Bill_Generator/
@@ -123,7 +124,7 @@ Electricity_Bill_Generator/
 
 ---
 
-8. File Description
+# 8. File Description
 
  8.1 main.c
 
@@ -252,7 +253,7 @@ Menu Options:
 
 ---
 
- #10. Working of the Code
+ # 10. Working of the Code
 
  Step 1
 
@@ -338,7 +339,7 @@ Energy Charges
 
 ---
 
-#12. File Handling
+# 12. File Handling
 
 The application uses binary file handling.
 
@@ -372,7 +373,7 @@ fread()
 
 ---
 
-#13. Receipt Generation
+# 13. Receipt Generation
 
 After bill generation:
 
