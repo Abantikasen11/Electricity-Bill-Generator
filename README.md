@@ -6,7 +6,7 @@ ELECTRICITY BILL GENERATOR SYSTEM
 
 ---
 
-# 1. Project Information
+ 1. Project Information
 
 | Field                    | Details                                 |
 | ------------------------ | --------------------------------------- |
@@ -66,15 +66,15 @@ The project is designed to demonstrate the practical application of C programmin
 
  6. Technologies Used
 
-1. Programming Language: **C**
-2. Compiler: **GCC / MinGW GCC**
-3. IDE:
+* i) Programming Language: **C**
+*ii) Compiler: **GCC / MinGW GCC**
+  * iii)IDE:
 
    * Visual Studio Code
    * CodeBlocks
    * Dev-C++
-4. File Handling: Binary Files
-5. Operating System: Windows
+iv) File Handling: Binary Files
+v) Operating System: Windows
 
 ---
 
@@ -716,23 +716,11 @@ After completing this project, the following concepts are demonstrated:
 
 ---
 
-22. Files Included in Submission
 
-✔ Source Code (`main.c`)
-
-✔ README File (`README.md`)
-
-✔ Documentation (`Documentation.pdf`)
-
-✔ Screenshots
-
-✔ Output Images
-
-✔ Generated Receipt Files
 
 ---
 
- 23. Conclusion
+ 22. Conclusion
 
 The Electricity Bill Generator System is a simple, reliable, and efficient console-based application that automates electricity bill generation using slab-wise tariff calculations. It supports complete CRUD (Create, Read, Update, Delete) operations, securely stores customer records using binary file handling, and generates printable receipts. This project demonstrates practical implementation of fundamental C programming concepts and serves as an excellent academic and internship project.
 
