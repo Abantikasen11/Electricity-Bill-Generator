@@ -34,7 +34,7 @@ The project is designed to demonstrate the practical application of C programmin
 
 ---
 
-#4. Objectives
+# 4. Objectives
 
 4.1. Automate electricity bill generation.
 
