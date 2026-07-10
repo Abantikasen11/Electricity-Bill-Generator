@@ -6,7 +6,7 @@ ELECTRICITY BILL GENERATOR SYSTEM
 
 ---
 
- 1. Project Information
+# 1. Project Information
 
 | Field                    | Details                                 |
 | ------------------------ | --------------------------------------- |
@@ -20,13 +20,13 @@ ELECTRICITY BILL GENERATOR SYSTEM
 
 ---
 
-2. Project Scope
+#2. Project Scope
 
 The **Electricity Bill Generator System** is a console-based application developed using the C programming language to automate the process of electricity bill management. The system calculates electricity charges based on slab-wise tariff rates, stores customer billing information permanently using binary file handling, generates detailed receipts, and provides options to view, search, update, and delete customer records. The project demonstrates the practical implementation of file handling, structures, functions, modular programming, and input validation in C.
 
 ---
 
- 3. Project Overview
+# 3. Project Overview
 
 The Electricity Bill Generator System is a menu-driven application that helps electricity providers or users generate accurate electricity bills quickly and efficiently. It automatically calculates the bill amount using slab-wise tariff rates, adds fixed meter charges and taxes, stores customer details in a binary file, and generates printable receipts.
 
@@ -34,7 +34,7 @@ The project is designed to demonstrate the practical application of C programmin
 
 ---
 
-4. Objectives
+#4. Objectives
 
 4.1. Automate electricity bill generation.
 
@@ -54,7 +54,7 @@ The project is designed to demonstrate the practical application of C programmin
 
 ---
 
- 5. Features
+# 5. Features
 
 i) Generate New Bill
 
@@ -82,7 +82,7 @@ xii) User-friendly Menu Interface
 
 ---
 
- 6. Technologies Used
+ #6. Technologies Used
 
 * i) Programming Language: **C**
 *ii) Compiler: **GCC / MinGW GCC**
@@ -96,7 +96,7 @@ v) Operating System: Windows
 
 ---
 
-7. Project Structure
+#7. Project Structure
 
 ``
 Electricity_Bill_Generator/
@@ -155,7 +155,7 @@ Contains project description and usage instructions.
 
 ---
 
- 9. Code Structure
+# 9. Code Structure
 
 The project is divided into several modules for better readability and maintenance.
 
@@ -252,7 +252,7 @@ Menu Options:
 
 ---
 
- 10. Working of the Code
+ #10. Working of the Code
 
  Step 1
 
@@ -312,7 +312,7 @@ Receipt_<ConsumerNumber>.txt
 
 ---
 
- 11. Electricity Bill Calculation
+# 11. Electricity Bill Calculation
 
 Slab Rates
 
@@ -338,7 +338,7 @@ Energy Charges
 
 ---
 
-12. File Handling
+#12. File Handling
 
 The application uses binary file handling.
 
@@ -372,7 +372,7 @@ fread()
 
 ---
 
-13. Receipt Generation
+#13. Receipt Generation
 
 After bill generation:
 
@@ -387,7 +387,7 @@ Receipt_101.txt
 
 ---
 
- 14. Input Validation
+# 14. Input Validation
 
 The application validates:
 
@@ -399,7 +399,7 @@ The application validates:
 
 ---
 
- 15. Function Description
+# 15. Function Description
 
 | Function                 | Description                         |
 | ------------------------ | ----------------------------------- |
@@ -419,7 +419,7 @@ The application validates:
 
 ---
 
-16. How to Compile
+#16. How to Compile
 
 Open the terminal and compile using GCC:
 
@@ -429,7 +429,7 @@ gcc main.c -o bill_generator
 
 ---
 
- 17. How to Run
+# 17. How to Run
 
 ### Windows
 
@@ -542,7 +542,7 @@ Receipt saved as "Receipt_101.txt"
 
 ---
 
- 18.3 Generate Another Bill (Consumer 102)
+## 18.3 Generate Another Bill (Consumer 102)
 
 ``
 Enter your choice (1-6): 1
@@ -632,7 +632,8 @@ TOTAL AMOUNT DUE  : Rs. 1207.50
 
 ---
 
- 18.6 Update Bill
+## 18.6 Update Bill
+ 
 
 ``
 Enter your choice (1-6): 4
@@ -646,8 +647,7 @@ New Current Meter Reading  : 1700
 
 Bill updated successfully!
 ``
-
-### Updated Receipt
+ Updated Receipt
 
 ``
 =========================================================
@@ -675,7 +675,8 @@ Receipt saved as "Receipt_102.txt"
 
 ---
 
-18.7 Delete Bill
+##18.7 Delete Bill
+
 
 `
 Enter your choice (1-6): 5
@@ -687,7 +688,8 @@ Record for Consumer Number 101 deleted successfully.
 
 ---
 
- 18.8 Exit Program
+## 18.8 Exit Program
+ 
 
 ``
 Enter your choice (1-6): 6
@@ -702,32 +704,48 @@ This section can be placed after **"How to Run the Program"** and before **"Futu
 
 ---
 
- 19. Future Enhancements
+# 19. Future Enhancements
 
 1. User Login Authentication
-2. MySQL Database Integration
-3. Graphical User Interface (GUI)
-4. PDF Bill Generation
-5. Online Payment Integration
-6. SMS/Email Notifications
-7. Monthly Billing Reports
-8. Customer Payment Tracking
+2. 
+3. MySQL Database Integration
+4. 
+5. Graphical User Interface (GUI)
+6. 
+7. PDF Bill Generation
+8. 
+9. Online Payment Integration
+10. 
+11. SMS/Email Notifications
+12. 
+13. Monthly Billing Reports
+14. 
+15. Customer Payment Tracking
 
 ---
 
- 20. Learning Outcomes
+# 20. Learning Outcomes
 
 After completing this project, the following concepts are demonstrated:
 
 20.1. C Programming
+
 20.2. Modular Programming
+
 20.3. Structures
+
 20.4. Functions
+
 20.5. Binary File Handling
+
 20.6. Dynamic Memory Allocation
+
 20.7. Input Validation
+
 20.8. Menu-Driven Programming
+
 20.9. File Management
+
 20.10. Real-world Billing System Development
 
 ---
@@ -736,7 +754,7 @@ After completing this project, the following concepts are demonstrated:
 
 ---
 
- 21. Conclusion
+# 21. Conclusion
 
 The Electricity Bill Generator System is a simple, reliable, and efficient console-based application that automates electricity bill generation using slab-wise tariff calculations. It supports complete CRUD (Create, Read, Update, Delete) operations, securely stores customer records using binary file handling, and generates printable receipts. This project demonstrates practical implementation of fundamental C programming concepts and serves as an excellent academic and internship project.
 
