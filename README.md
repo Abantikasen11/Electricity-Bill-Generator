@@ -36,14 +36,14 @@ The project is designed to demonstrate the practical application of C programmin
 
 4. Objectives
 
-1. Automate electricity bill generation.
-2. Calculate electricity charges using slab-wise rates.
-3. Store customer billing information permanently.
-4. Search customer records using Consumer Number.
-5. Update existing customer records.
-6. Delete customer billing records.
-7. Generate printable receipts.
-8. Demonstrate file handling and modular programming concepts in C.
+4.1. Automate electricity bill generation.
+4.2. Calculate electricity charges using slab-wise rates.
+4.3. Store customer billing information permanently.
+4.4. Search customer records using Consumer Number.
+4.5. Update existing customer records.
+4.6. Delete customer billing records.
+4.7. Generate printable receipts.
+4.8. Demonstrate file handling and modular programming concepts in C.
 
 ---
 
