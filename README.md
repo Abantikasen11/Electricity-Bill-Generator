@@ -427,19 +427,17 @@ bill_generator.exe
 
 ---
 
- 18. Running in Visual Studio Code
+ * Running in Visual Studio Code
 
-1. Install GCC (MinGW or MSYS2).
-2. Open the project folder in Visual Studio Code.
-3. Open **main.c**.
-4. Open the integrated terminal.
-5. Compile the project:
+* Install GCC (MinGW or MSYS2).
+* Open the project folder in Visual Studio Code.
+* Open **main.c**.
+* Open the integrated terminal.
+* Compile the project:
 
-```bash
+``bash
 gcc main.c -o bill_generator
-```
-
-6. Run:
+* Run:
 
 ```bash
 bill_generator.exe
@@ -686,7 +684,7 @@ This section can be placed after **"How to Run the Program"** and before **"Futu
 
 ---
 
- 20. Future Enhancements
+ 19. Future Enhancements
 
 1. User Login Authentication
 2. MySQL Database Integration
@@ -699,20 +697,20 @@ This section can be placed after **"How to Run the Program"** and before **"Futu
 
 ---
 
- 21. Learning Outcomes
+ 20. Learning Outcomes
 
 After completing this project, the following concepts are demonstrated:
 
-1. C Programming
-2. Modular Programming
-3. Structures
-4. Functions
-5. Binary File Handling
-6. Dynamic Memory Allocation
-7. Input Validation
-8. Menu-Driven Programming
-9. File Management
-10. Real-world Billing System Development
+20.1. C Programming
+20.2. Modular Programming
+20.3. Structures
+20.4. Functions
+20.5. Binary File Handling
+20.6. Dynamic Memory Allocation
+20.7. Input Validation
+20.8. Menu-Driven Programming
+20.9. File Management
+20.10. Real-world Billing System Development
 
 ---
 
@@ -720,7 +718,7 @@ After completing this project, the following concepts are demonstrated:
 
 ---
 
- 22. Conclusion
+ 21. Conclusion
 
 The Electricity Bill Generator System is a simple, reliable, and efficient console-based application that automates electricity bill generation using slab-wise tariff calculations. It supports complete CRUD (Create, Read, Update, Delete) operations, securely stores customer records using binary file handling, and generates printable receipts. This project demonstrates practical implementation of fundamental C programming concepts and serves as an excellent academic and internship project.
 
