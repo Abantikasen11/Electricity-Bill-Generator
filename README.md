@@ -49,18 +49,18 @@ The project is designed to demonstrate the practical application of C programmin
 
  5. Features
 
-1. Generate New Bill
-2. View All Bills
-3. Search Bill by Consumer Number
-4. Update Existing Bill
-5. Delete Bill
-6. Slab-wise Electricity Charge Calculation
-7. Automatic Tax Calculation
-8. Fixed Meter Rent Calculation
-9. Binary File Storage
-10. Receipt Generation
-11. Input Validation
-12. User-friendly Menu Interface
+i) Generate New Bill
+ii) View All Bills
+iii) Search Bill by Consumer Number
+iv) Update Existing Bill
+v) Delete Bill
+vi) Slab-wise Electricity Charge Calculation
+vii) Automatic Tax Calculation
+viii) Fixed Meter Rent Calculation
+ix) Binary File Storage
+x) Receipt Generation
+xi) Input Validation
+xii) User-friendly Menu Interface
 
 ---
 
